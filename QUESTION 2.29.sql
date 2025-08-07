@@ -1,0 +1,7 @@
+SELECT SKU,SKU_DESCRIPTION,WAREHOUSEID,QuantityOnHand
+FROM INVENTORY
+where QuantityOnHand > 1 < 10;
+
+
+
+
