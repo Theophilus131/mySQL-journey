@@ -1,0 +1,2 @@
+SELECT warehouseID
+FROM INVENTORY
