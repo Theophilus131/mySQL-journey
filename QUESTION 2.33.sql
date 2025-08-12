@@ -1,0 +1,5 @@
+SELECT SKU, SKU_DESCRIPTION
+FROM INVENTORY
+WHERE SKU_Description like '__d%'
+
+
